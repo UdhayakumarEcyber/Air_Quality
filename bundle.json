@@ -1,0 +1,22 @@
+{
+    "id": "c4029a56-b2b6-4364-ca69-9bc48da7b1b4",
+    "author": "Eutech",
+    "widgets": [
+        {
+            "id": "Air_Quality",
+            "name": "Air_Quality",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        
+    ],
+    "uis": [
+       
+    ],
+    "menuItems": [
+        
+    ]
+}

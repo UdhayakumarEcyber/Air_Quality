@@ -1,0 +1,37 @@
+{
+    "id": "73357c04-b178-464b-cf78-e2ca29afaf64",
+    "author": "",
+    "widgets": [
+        {
+            "id": "Air_Quality",
+            "name": "Air_Quality",
+            "description": "A sample widget",
+            "icon": "",
+            "tags":[]
+        }
+    ],
+    "sidebarLinks": [
+        {
+            "id": "Air_QualityLink",
+            "label": "",
+            "description": "",
+            "target": "",
+            "icon": "",
+            "roles":[]
+        }
+    ],
+    "uis": [
+        {
+            "id": "Air_QualityLink",
+            "label":"",
+            "description": "",
+            "roles": []
+        }
+    ],
+    "menuItems": [
+        {
+            "id": "Air_QualityLink",
+            "title": "Air_Quality"
+        }
+    ]
+}
